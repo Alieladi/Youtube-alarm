@@ -1,6 +1,6 @@
 {
 
-  "description": "My youtube watching behavior beta: shows how many videos have you played",
+  "description": "My youtube watching behavior beta: shows how much time have you been watching",
   "manifest_version": 2,
   "name": "youtube_analytics",
   "version": "1.0",
